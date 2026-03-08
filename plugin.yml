@@ -2,13 +2,13 @@ name: iProtector
 author: LDX
 version: 3.1.2
 main: LDX\iProtector\Main
-load: POSTWORLD
 api: [5.0.0]
+load: POSTWORLD
 
 commands:
   area:
     description: Manage protected areas
-    usage: "/area <pos1|pos2|create|list|delete>"
+    usage: "/area <pos1|pos2|create|list|here|tp|flag|whitelist|delete>"
     permission: iprotector.command.area
 
 permissions:
