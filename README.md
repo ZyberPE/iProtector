@@ -8,3 +8,5 @@ Great thanks to @MegaSamNinja for making this awesome tutorial!
 [Youtube Video Demo](https://www.youtube.com/embed/ZUr2zrx7ZY8)
 
 Commands Code: /area <pos1/pos2/create/flag/list/tp/delete>
+
+plugin updated and rewritten by ZyberPE
